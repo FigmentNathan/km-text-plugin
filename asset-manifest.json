@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/km-text-plugin/static/css/main.9fda5399.css",
+    "main.js": "/km-text-plugin/static/js/main.33fee785.js",
+    "static/js/787.89ad94bc.chunk.js": "/km-text-plugin/static/js/787.89ad94bc.chunk.js",
+    "index.html": "/km-text-plugin/index.html",
+    "main.9fda5399.css.map": "/km-text-plugin/static/css/main.9fda5399.css.map",
+    "main.33fee785.js.map": "/km-text-plugin/static/js/main.33fee785.js.map",
+    "787.89ad94bc.chunk.js.map": "/km-text-plugin/static/js/787.89ad94bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fda5399.css",
+    "static/js/main.33fee785.js"
+  ]
+}
